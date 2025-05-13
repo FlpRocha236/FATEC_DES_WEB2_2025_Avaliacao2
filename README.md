@@ -25,7 +25,7 @@ Este é um sistema simples de cadastro de produtos desenvolvido em **PHP com PDO
 ---
 ## 🗄️ Para utilizar 
 
--Importe o banco de dados loja.sql no seu MySQL
+- Importe o banco de dados loja.sql no seu MySQL
 
 ---
 
